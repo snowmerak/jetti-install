@@ -1,0 +1,2 @@
+repo: github.com/sqlc-dev/sqlc/cmd/sqlc
+desc: Generate type safe Go from SQL
